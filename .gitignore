@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+
+# ML artifacts
+model.pkl
+vectorizer.pkl
+spam.csv
+
+# OS junk
+.DS_Store
